@@ -38,24 +38,6 @@ I enjoy exploring new technologies, solving problems, and building projects that
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puspa222&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puspa222&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
----
-
-## 🤣 **Programming Joke for You:**
-<details>
-<summary>Click to see a joke 🤭</summary>
-
-<script>
-  async function fetchJoke() {
-    const response = await fetch('https://v2.jokeapi.dev/joke/Programming?type=single');
-    const data = await response.json();
-    document.getElementById("joke").innerText = data.joke || "No joke found! Try again.";
-  }
-
-  fetchJoke();
-</script>
-<p id="joke">Loading joke...</p>
-
-</details>
 
 ---
 
