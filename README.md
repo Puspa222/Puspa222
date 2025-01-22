@@ -13,12 +13,14 @@ Imagine a blacksmith’s forge where tools are crafted with purpose:
 - **Data Science** and **Machine Learning**—uncharted territories I’m mapping with curiosity and tenacity.  
 
 My love for learning burns brightly, a lantern that never dims. Each project adds a new spark—whether it’s diving into **Pandas** to tame data dragons or sharpening the edge of my programming concepts in web development.  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=puspa222&repo=YourRepoName&theme=dark)](https://github.com/puspa222/sanskala)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=puspa222&repo=YourRepoName&theme=dark)](https://github.com/Puspa222/sanskala)
 
 ---
 
 ### **The Heart of My Projects**  
 In a world teeming with problems, I don’t just see obstacles—I see **opportunities**. My creations are more than code; they’re stories of persistence, teamwork, and the pursuit of innovation.  
+[![wakatime](https://wakatime.com/badge/user/your-unique-id.svg)](https://wakatime.com/Puspa222)
+
 
 ---
 
@@ -27,7 +29,8 @@ Each technology I wield is a brushstroke on my canvas:
 - **Python**, **Pandas**, **NumPy**—my analytical trio for unearthing insights.  
 - **HTML5**, **CSS3**, **JavaScript**—the palette of the web, where colors of creativity merge with precision.  
 - **Java** and **C++**—my old companions in solving logic-based challenges.  
-[![wakatime](https://wakatime.com/badge/user/your-unique-id.svg)](https://wakatime.com/@your-username)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=puspa222&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -36,7 +39,7 @@ Behind every green square lies a story of late nights, relentless debugging, and
 
 ![](https://github-readme-stats.vercel.app/api?username=puspa222&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=puspa222&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=puspa222&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 
 
