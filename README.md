@@ -26,7 +26,7 @@ In a world teeming with problems, I don’t just see obstacles—I see **opportu
 
 ### **My Tech Stack**  
 Each technology I wield is a brushstroke on my canvas:  
-- **Python**, **Pandas**, **NumPy**—my analytical trio for unearthing insights.  
+- **Python**, **Pandas**, **NumPy**, **Django**—my analytical trio for unearthing insights.  
 - **HTML5**, **CSS3**, **JavaScript**—the palette of the web, where colors of creativity merge with precision.  
 - **Java** and **C++**—my old companions in solving logic-based challenges.  
 
