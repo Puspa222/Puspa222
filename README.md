@@ -9,7 +9,7 @@ My journey with technology started not unlike an adventurer stumbling upon a mys
 ### **A Glimpse into My Skill Arsenal**  
 Imagine a blacksmith’s forge where tools are crafted with purpose:  
 - **Python**—the sharpest sword, precise and powerful.  
-- **HTML, CSS**, and **JavaScript**—the crafting tools that breathe design and interactivity into static pages, transforming ideas into dynamic experiences.  
+- **HTML, CSS**, **Django**, and **JavaScript**—the crafting tools that breathe design and interactivity into static pages, transforming ideas into dynamic experiences.  
 - **Data Science** and **Machine Learning**—uncharted territories I’m mapping with curiosity and tenacity.  
 
 My love for learning burns brightly, a lantern that never dims. Each project adds a new spark—whether it’s diving into **Pandas** to tame data dragons or sharpening the edge of my programming concepts in web development.  
@@ -36,7 +36,10 @@ Behind every green square lies a story of late nights, relentless debugging, and
 ![](https://github-readme-streak-stats.herokuapp.com/?user=puspa222&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=puspa222&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=puspa222&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=puspa222&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=puspa222&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=puspa222&bg_color=1a1b27&color=9b59b6&line=2ecc71&point=fff&area=true&hide_border=true)
+
 ---
 
 ### **Where Am I?**  
