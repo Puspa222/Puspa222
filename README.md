@@ -13,13 +13,13 @@ Imagine a blacksmith’s forge where tools are crafted with purpose:
 - **Data Science** and **Machine Learning**—uncharted territories I’m mapping with curiosity and tenacity.  
 
 My love for learning burns brightly, a lantern that never dims. Each project adds a new spark—whether it’s diving into **Pandas** to tame data dragons or sharpening the edge of my programming concepts in web development.  
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 ---
 
 ### **The Heart of My Projects**  
 In a world teeming with problems, I don’t just see obstacles—I see **opportunities**. My creations are more than code; they’re stories of persistence, teamwork, and the pursuit of innovation.  
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=puspa222&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
@@ -51,7 +51,6 @@ A dreamer, creator, and explorer—rooted in Nepal but reaching beyond borders t
 
 ### **The Invitation**  
 Every codebase is an invitation to a new world. Let’s build something extraordinary together—where passion meets purpose, and where each keystroke writes a better future.  
-![Profile View Counter](https://komarev.com/ghpvc/?username=puspa222&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
