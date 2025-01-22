@@ -19,9 +19,8 @@ My love for learning burns brightly, a lantern that never dims. Each project add
 ### **The Heart of My Projects**  
 In a world teeming with problems, I don’t just see obstacles—I see **opportunities**. My creations are more than code; they’re stories of persistence, teamwork, and the pursuit of innovation.  
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=puspa222&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
 ![Profile 3D](https://profile-counter.glitch.me/puspa222/count.svg)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puspa222&theme=dark)
 
 ---
 
