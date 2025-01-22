@@ -13,13 +13,12 @@ Imagine a blacksmith’s forge where tools are crafted with purpose:
 - **Data Science** and **Machine Learning**—uncharted territories I’m mapping with curiosity and tenacity.  
 
 My love for learning burns brightly, a lantern that never dims. Each project adds a new spark—whether it’s diving into **Pandas** to tame data dragons or sharpening the edge of my programming concepts in web development.  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=puspa222&repo=YourRepoName&theme=dark)](https://github.com/Puspa222/sanskala)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=puspa222&repo=Sanskalae&theme=dark)](https://github.com/Puspa222/sanskala)
 
 ---
 
 ### **The Heart of My Projects**  
 In a world teeming with problems, I don’t just see obstacles—I see **opportunities**. My creations are more than code; they’re stories of persistence, teamwork, and the pursuit of innovation.  
-[![wakatime](https://wakatime.com/badge/user/your-unique-id.svg)](https://wakatime.com/Puspa222)
 
 
 ---
