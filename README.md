@@ -26,8 +26,8 @@ In a world teeming with problems, I don’t just see obstacles—I see **opportu
 
 ### **My Tech Stack**  
 Each technology I wield is a brushstroke on my canvas:  
-- **Python**, **Pandas**, **NumPy**, **Django**—my analytical trio for unearthing insights.  
-- **HTML5**, **CSS3**, **JavaScript**—the palette of the web, where colors of creativity merge with precision.  
+- **Python**, **Pandas**, **NumPy**—my analytical trio for unearthing insights.  
+- **HTML5**, **CSS3**, **JavaScript**, **Django**—the palette of the web, where colors of creativity merge with precision.  
 - **Java** and **C++**—my old companions in solving logic-based challenges.  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=puspa222&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
