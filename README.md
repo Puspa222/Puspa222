@@ -12,14 +12,12 @@ I specialize in the architecture and maintenance of high-concurrency backend sys
 
 ### Engineering Analytics
 
-| **Core Statistics** | **Language Distribution** |
-| :--- | :--- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=puspa222&show_icons=true&theme=dark&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puspa222&layout=compact&theme=dark&hide_border=true) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=puspa222&show_icons=true&theme=transparent&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puspa222&layout=compact&theme=transparent)
 
 **Contribution Velocity & Consistency**
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puspa222&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
-
-### Contact & Network
-**LinkedIn:** [linkedin.com/in/herodebris](https://www.linkedin.com/in/herodebris/)
