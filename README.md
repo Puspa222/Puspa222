@@ -12,9 +12,9 @@ I specialize in the architecture and maintenance of high-concurrency backend sys
 
 ### Engineering Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=puspa222&show_icons=true&theme=transparent&rank_icon=github)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puspa222&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puspa222&layout=compact&theme=transparent)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puspa222&theme=transparent)
 
 **Contribution Velocity & Consistency**
 
