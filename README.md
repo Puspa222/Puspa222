@@ -1,13 +1,13 @@
-# AI Software Engineer | Backend Engineer
+# Machine Learning Engineer | NLP & Model Training
 
-I specialize in the architecture and maintenance of high-concurrency backend systems, with a focus on **operational longevity** and **low-latency execution**. My engineering approach prioritizes **system reliability** and **clean architecture (SOLID)**, having managed the full product lifecycle of live platforms for over 12 months. My experience includes international collaboration on real-time disaster detection systems and the development of RAG-based AI tools to solve accessibility challenges, consistently aligning technical execution with long-term scalability goals.
+I specialize in **training and productionizing NLP models**, focusing on the intersection of model performance and high-concurrency execution. My expertise includes fine-tuning Large Language Models, architecting data pipelines for training, and building robust **RAG systems** that bridge the gap between static weights and dynamic data. I prioritize deterministic deployments and environment parity, ensuring that real-time disaster detection and NLP-driven accessibility tools perform reliably at scale.
 
 ### Technical & Behavioral Competencies
-* **Core Systems:** Python (FastAPI, Django), Golang, RESTful API Design, RAG-based AI Systems.
-* **Infrastructure & Data:** PostgreSQL (Query Optimization & Indexing), Redis, Docker.
-* **Operational Leadership:** Executive management of 22-member teams (IEEE Secretary), streamlining technical documentation, and cross-functional workflow optimization.
-* **Engineering Standards:** Environment parity, deterministic deployments, and rigorous adherence to maintainable, well-tested codebases.
 
+* **Model Training & NLP:** Model Fine-tuning (LoRA, QLoRA), Supervised Learning, Transformers (Hugging Face), Tokenization, Evaluation Metrics (ROUGE, BLEU, BERTScore).
+* **RAG & Data Pipelines:** ETL for ML, Vector Indexing Optimization, Knowledge Graph Integration, Handling High-Concurrency Inference.
+* **Engineering Excellence:** Python, Golang, PostgreSQL (Query Optimization for large datasets), Redis, Docker, Clean Architecture.
+* **Operational Leadership:** Managed 22-member technical teams (IEEE Secretary), streamlining the transition from research-heavy model training to production-ready software.
 ---
 
 ### Engineering Analytics
