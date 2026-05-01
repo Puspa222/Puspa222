@@ -6,7 +6,7 @@ I specialize in **training and productionizing NLP models**, focusing on the int
 
 * **Model Training & NLP:** Model Fine-tuning (LoRA, QLoRA), Supervised Learning, Transformers (Hugging Face), Tokenization, Evaluation Metrics (ROUGE, BLEU, BERTScore).
 * **RAG & Data Pipelines:** ETL for ML, Vector Indexing Optimization, Knowledge Graph Integration, Handling High-Concurrency Inference.
-* **Engineering Excellence:** Python, Golang, PostgreSQL (Query Optimization for large datasets), Redis, Docker, Clean Architecture.
+* **Engineering Excellence:** Python, Golang, PostgreSQL (Query Optimization for large datasets), Docker, Clean Architecture.
 * **Operational Leadership:** Managed 22-member technical teams (IEEE Secretary), streamlining the transition from research-heavy model training to production-ready software.
 ---
 
