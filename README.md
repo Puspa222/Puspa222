@@ -1,13 +1,7 @@
-# Machine Learning Engineer | NLP & Model Training
+# Machine Learning Engineer | Software Engineer
 
-I specialize in **training and productionizing NLP models**, focusing on the intersection of model performance and high-concurrency execution. My expertise includes fine-tuning Large Language Models, architecting data pipelines for training, and building robust **RAG systems** that bridge the gap between static weights and dynamic data. I prioritize deterministic deployments and environment parity, ensuring that real-time disaster detection and NLP-driven accessibility tools perform reliably at scale.
+I specialize in **training and productionizing AI models**, focusing on the intersection of model performance and high-concurrency execution. My expertise includes fine-tuning Large Language Models, architecting data pipelines for training, and building robust **RAG systems** that bridge the gap between static weights and dynamic data.
 
-### Technical & Behavioral Competencies
-
-* **Model Training & NLP:** Model Fine-tuning (LoRA, QLoRA), Supervised Learning, Transformers (Hugging Face), Tokenization, Evaluation Metrics (ROUGE, BLEU, BERTScore).
-* **RAG & Data Pipelines:** ETL for ML, Vector Indexing Optimization, Knowledge Graph Integration, Handling High-Concurrency Inference.
-* **Engineering Excellence:** Python, Golang, PostgreSQL (Query Optimization for large datasets), Docker, Clean Architecture.
-* **Operational Leadership:** Managed 22-member technical teams (IEEE Secretary), streamlining the transition from research-heavy model training to production-ready software.
 ---
 
 ### Engineering Analytics
