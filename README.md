@@ -1,6 +1,5 @@
-# Machine Learning Engineer | Software Engineer
+# Software Engineer
 
-I specialize in **training and productionizing AI models**, focusing on the intersection of model performance and high-concurrency execution. My expertise includes fine-tuning Large Language Models, architecting data pipelines for training, and building robust **RAG systems** that bridge the gap between static weights and dynamic data.
 
 ---
 
